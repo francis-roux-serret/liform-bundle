@@ -30,6 +30,7 @@
     }
   },
   "require": {
+    "francis-roux-serret/liform": "^2.2",
     "symfony/dependency-injection": "^5.4|^6.0|^7.0|^8.0",
     "symfony/config": "^5.4|^6.0|^7.0|^8.0",
     "symfony/http-kernel": "^5.4|^6.0|^7.0|^8.0"
